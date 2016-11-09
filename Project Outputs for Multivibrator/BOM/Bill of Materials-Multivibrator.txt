@@ -1,0 +1,7 @@
+Comment	Description	Designator	Footprint	LibRef	Quantity
+
+"20nF"	"Capacitor"	"C1, C2"	"RAD-0.1"	"Cap"	"2"
+"2N3904"	"NPN General Purpose Amplifier"	"Q1, Q2"	"TO-92A"	"2N3904"	"2"
+"100k"	"Resistor"	"R1, R2"	"AXIAL-0.3"	"Res1"	"2"
+"1K"	"Resistor"	"R3, R4"	"AXIAL-0.3"	"Res1"	"2"
+"Header 2"	"Header, 2-Pin"	"Y1"	"HDR1X2"	"Header 2"	"1"

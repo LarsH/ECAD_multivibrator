@@ -72,8 +72,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVNVIPDF
 
+[Document3]
+DocumentPath=GerberOutput.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Multivibrator\Design Rule Check - Multivibrator.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.REP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Multivibrator\Gerber\Multivibrator.RUL
 DItemRevisionGUID=
 
 [Configuration1]
